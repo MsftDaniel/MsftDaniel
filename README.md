@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on Website Developments
 - 📫 How to reach me IG: _msftdaniel_
+- WA: +2349029643825
 
 <!---
 MsftDaniel/MsftDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
